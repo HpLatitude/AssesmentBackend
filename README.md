@@ -96,7 +96,4 @@ Contributions to this project are welcome. Please follow the standard fork-and-p
 License
 MIT License
 
-![pathaan](https://github.com/HpLatitude/AssesmentBackend/assets/148424369/e113eebf-ab9e-493f-be20-38c3368c866f)
-
-<img width="1440"  src="https://github.com/HpLatitude/AssesmentBackend/assets/148424369/e113eebf-ab9e-493f-be20-38c3368c866f">
-
+Happy Coding
