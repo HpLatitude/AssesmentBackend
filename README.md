@@ -1,8 +1,8 @@
-# Movie Catalog Backend
+# Movie App Backend
 
 ## Introduction
 
-This repository contains the backend API for the Movie Catalog web app. The API is responsible for handling movie data, including creating, reading, updating, and deleting movie records. Each movie entity consists of a title, publishing year, and an image for the poster.
+This repository contains the backend API for the Movie web app. The API is responsible for handling movie data, including creating, reading, updating, and deleting movie records. Each movie entity consists of a title, publishing year, and an image for the poster.
 
 ## Getting Started
 - npm init -y
@@ -48,7 +48,7 @@ To start the server, run:
 
 bash
 
-npm start
+node index.js
 # or
 yarn start
 API Documentation
@@ -88,7 +88,9 @@ dummy json
 }
 
 Deployment
-This API is deployable on cloud platforms like AWS. 
+This API is deployable on cloud platforms like render.com. 
+
+Render is a cloud platform that offers a suite of services to simplify the deployment, scaling, and management of web applications and services.
 
 Contributing
 Contributions to this project are welcome. Please follow the standard fork-and-pull request workflow.
