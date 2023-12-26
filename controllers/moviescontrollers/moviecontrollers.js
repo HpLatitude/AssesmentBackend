@@ -35,10 +35,10 @@ exports.createmovie = async (req, res) => {
 exports.getAllmovie = async (req, res) => {
     const userid = req.userMainId;
     const page = req.query.page || 1;
-    const ITEM_PER_PAGE = 6;
+    const ITEM_PER_PAGE = 8;
 
     try {
-        const skip = (page - 1) * ITEM_PER_PAGE  // 1 * 6 = 6
+        const skip = (page - 1) * ITEM_PER_PAGE  // 1 * 8 = 8
 
         // allmovie count
         const allmoviecount = await moviesDB.countDocuments({ userid: userid });
