@@ -7,7 +7,7 @@ const SECRECT_KEY = process.env.SECRECT_KEY
 const userSchema = new mongoose.Schema({
     username:{
         type: String,
-        required: true
+        required: false
     },
     email: {
         type: String,
