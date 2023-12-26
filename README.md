@@ -35,7 +35,7 @@ yarn install
     mongoose
     multer
     validator
-    
+
 Configuration
 Create a .env file in the project root and add the necessary environment variables:
 
@@ -97,5 +97,5 @@ License
 MIT License
 
 
-
+<img width="1440" alt="cart" src="https://github.com/HpLatitude/AssesmentBackend/assets/148424369/e113eebf-ab9e-493f-be20-38c3368c866f">
 
